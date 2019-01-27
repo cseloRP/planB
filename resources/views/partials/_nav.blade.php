@@ -24,7 +24,7 @@
             </li>
         </ul>
     </div>
-    <div class="navbar-right">
-        <a href="tel:07912564493">Call: 0790 2006 334</a>
+    <div class="navbar-right h-text-color">
+        <a href="tel:07902006334">Call: 0790 2006 334</a>
     </div>
 </nav>

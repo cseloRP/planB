@@ -42,7 +42,7 @@ body {
 }
 
 .h-text-color {
-    color: #cc4452;
+    color: #cc4452 !important;
 }
 
 .l-text-color, .l-text-color:hover {
@@ -87,6 +87,10 @@ p.highlight {
 
 .mediumtext {
     font-size: 2.6rem;
+}
+
+.smalltext {
+    font-size: 1rem;
 }
 
 .source {
@@ -152,7 +156,7 @@ p.highlight {
 
 .light-text {
     color: #fff;
-    text-shadow: 0px 0px 8px rgba(0, 0, 0, 1);
+    text-shadow: 0px 2px 6px rgba(0, 0, 0, 1);
 }
 
 .letterspacing-wide {
@@ -218,6 +222,8 @@ body::-webkit-scrollbar-thumb
     font-weight: 700;
     padding-top: 20px;
     padding-bottom: 20px;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
 .navbar a {
@@ -225,7 +231,7 @@ body::-webkit-scrollbar-thumb
 }
 
 .navbar-brand {
-    width: 250px;
+    width: 200px;
 }
 
 .navbar-brand img {
@@ -233,14 +239,9 @@ body::-webkit-scrollbar-thumb
 }
 
 .navbar-right {
-    font-size: 20px;
+    font-size: 28px;
     letter-spacing: 1px;
     white-space: nowrap !important;
-}
-
-.tel {
-    width: 3rem;
-    margin-right: 5px;
 }
 
 .fixed {
@@ -259,7 +260,7 @@ body::-webkit-scrollbar-thumb
 
 /*carousel*/
 .carousel {
-    padding-top: 70px;
+    padding-top: 45px;
 }
 
 .carousel-indicators > li {
@@ -489,6 +490,13 @@ footer .secPart {
     font-size: 1.2rem;
 }
 
+.block-header-img {
+    width: 100%;
+}
+
+.block-title {
+    font-size: 2rem;
+}
 
 @media (max-width: 991px) {
     .carousel {

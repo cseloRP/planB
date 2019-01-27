@@ -14,71 +14,33 @@
                         </li>
                         <li data-slide-to="2" data-target="#carousel">
                         </li>
-                        <li data-slide-to="3" data-target="#carousel">
-                        </li>
-                        <li data-slide-to="4" data-target="#carousel">
-                        </li>
                     </ol>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img class="w-100" alt="Carousel Bootstrap First"
-                                 src="images/slider1.png">
+                            <img class="w-100" alt="Transport service Wales"
+                                 src="images/slider/sliderB2.png">
                             <div class="carousel-caption">
                                 <h3 class="light-text">
-                                    Call Us On: 07902 006334
+                                    Cheap and reliable service for airport transfers and long distances.
                                 </h3>
                             </div>
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block w-100" alt="Carousel Bootstrap Second"
-                                 src="images/slider2.png">
+                            <img class="d-block w-100" alt="Airport runs UK"
+                                 src="images/slider/sliderB4.png">
                             <div class="carousel-caption">
-                                <h4>
-                                    Second Thumbnail label
-                                </h4>
-                                <p>
-                                    Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi
-                                    porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
-                                </p>
+                                <h3 class="light-text">
+                                    Your satisfaction is our future.
+                                </h3>
                             </div>
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block w-100" alt="Carousel Bootstrap Third"
-                                 src="images/slider3.png">
+                            <img class="d-block w-100" alt="Cheap transport service UK"
+                                 src="images/slider/sliderB6.png">
                             <div class="carousel-caption">
-                                <h4>
-                                    Third Thumbnail label
-                                </h4>
-                                <p>
-                                    Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi
-                                    porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="carousel-item">
-                            <img class="d-block w-100" alt="Carousel Bootstrap Third"
-                                 src="images/slider4.png">
-                            <div class="carousel-caption">
-                                <h4>
-                                    Third Thumbnail label
-                                </h4>
-                                <p>
-                                    Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi
-                                    porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="carousel-item">
-                            <img class="d-block w-100" alt="Carousel Bootstrap Third"
-                                 src="images/slider5.png">
-                            <div class="carousel-caption">
-                                <h4>
-                                    Third Thumbnail label
-                                </h4>
-                                <p>
-                                    Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi
-                                    porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
-                                </p>
+                                <h3 class="light-text">
+                                    From £1 per mile on long distances
+                                </h3>
                             </div>
                         </div>
                     </div>
@@ -91,34 +53,22 @@
         </div>
         <div class="row justify-content-center">
             <div class="col-md-3">
-                <h2>
-                    Skoda Octavia Estate
-                </h2>
-                <p>
-                    Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor
-                    mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna
-                    mollis euismod. Donec sed odio dui.
-                </p>
+                <img src="images/best_prices.png" class="block-header-img" />
+                <div class="block-title">
+                    Best prices
+                </div>
             </div>
             <div class="col-md-3">
-                <h2>
-                    Skoda Octavia Estate
-                </h2>
-                <p>
-                    Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor
-                    mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna
-                    mollis euismod. Donec sed odio dui.
-                </p>
+                <img src="images/best_routes.png" class="block-header-img" />
+                <div class="block-title">
+                    Easy booking
+                </div>
             </div>
             <div class="col-md-3">
-                <h2>
-                    Skoda Octavia Estate
-                </h2>
-                <p>
-                    Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor
-                    mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna
-                    mollis euismod. Donec sed odio dui.
-                </p>
+                <img src="images/easy_booking.png" class="block-header-img" />
+                <div class="block-title">
+                    Best routes
+                </div>
             </div>
         </div>
     </div>
@@ -191,21 +141,21 @@
     </div>
     <div id="prices">
         <div class="row justify-content-center">
-            <div class="col-md-4">
-                <p>Airport transfers to Manchester Airport & Liverpool Airport from: £47 e.g airport taxi/transfer from Buckley in Flintshire : £47 transfer from Deeside in Flintshire : £47 airport taxi from Shotton in Flintshire only £47. Ewloe to Manchester & Liverpool £47, airport taxi from Connah's Quay £47, Transfer from Northop : £48. taxi from Flint : £47 Sandycroft £47. airport taxi from Bagillt in Flintshire : £47. Transfer from Mold : £49 . airport transfer from Hope : £50. airport transfer from Cilcain : £52 transfer from Holywell : £48 Leeswood by Mold : £49. Caerwys : £52. Rosset : £49. Holt : £54 LLay £52 Mostyn : £50. Mostyn Docks : £54. Wrexham: £56. Talacre : £55. Overton : £70. Ruthin : £59 Prestatyn : £59 St Asaph : £58. Rhyl : £64. Denbigh : £60. Llangollen : £67. Corwen : £74 Oswestry : £79. Abergele : £68. Llandudno : £79. Conway : £79. Llanwrst : £88 Betws-Y-Coed : £92. Bethesda:£99 Bangor : £96, Portmadog : £132. Abersoch : £152, Harlech : £159. Holyhead : £138</p>
+            <div class="col-md-4 smalltext">
+                <p>Airport transfers to Manchester Airport & Liverpool Airport | e.g airport taxi/transfer from Buckley in Flintshire | transfer from Deeside in Flintshire | airport taxi from Shotton in Flintshire | Ewloe to Manchester & Liverpool | airport taxi from Connah's Quay | Transfer from Northop | taxi from Flint | Sandycroft | airport taxi from Bagillt in Flintshire | Transfer from Mold | airport transfer from Hope | airport transfer from Cilcain | transfer from Holywell | Leeswood by Mold | Caerwys | Rosset | Holt | LLay | Mostyn | Mostyn Docks | Wrexham | Talacre | Overton | Ruthin | Prestatyn | St Asaph | Rhyl | Denbigh | Llangollen | Corwen | Oswestry | Abergele | Llandudno | Conway | Llanwrst | Betws-Y-Coed | Bethesda | Bangor | Portmadog | Abersoch | Harlech | Holyhead </p>
                 <p>These prices are for our full Meet and Greet Airport Service. Contact us for a competitive quote from any areas of North wales & Chester inc Flintshire, Anglesey, Powys, Gwynedd, Denbighshire, Shropshire, Wirral & Wrexham that are not listed.</p>
-                <p>Airport taxi transfer to East Midland Airport & Birmingham International Airport transfers from : £135 e.g. Buckley to Birmingham International: £135, Bagillt to East midlands Airport: £135. Holywell , Mold , Northop, Shotton. Connah's Quay : Wrexham: to East Midlands :£135, Ruthin : £139, Denbigh : £139, Bangor : £198</p>
+                <p>Airport taxi transfer to East Midland Airport & Birmingham International Airport transfers | Buckley to Birmingham International | Bagillt to East midlands Airport | Holywell, Mold, Northop, Shotton, Connah's Quay, Wrexham to East Midlands, Ruthin, Denbigh, Bangor</p>
                 <p>Phone on 07902 006334 for a competitive quote to East Midland Airport & Birmingham Airport from all areas of North wales & Chester inc Flintshire, Anglesey, Powys, Gwynedd, Denbighshire, Shropshire, Wirral & Wrexham, Full Meet and Greet Executive Service</p>
-                <p>Airport taxi transfer to Heathrow Airport transfers from : £240</p>
+                <p>Airport taxi transfer to Heathrow</p>
             </div>
-            <div class="col-md-4">
-                <p>Airport taxi transfer to Gatwick Airport transfers from : £270 e.g. Buckley to London Gatwick : £270, Holywell : £270, Bagillt : £265. Mold : £270, Connah's Quay : £270. Wrexham: £270 Ruthin : £275.Denbigh : £280, Bangor : £325 Holyhead :£345</p>
+            <div class="col-md-4 smalltext">
+                <p>Airport taxi transfer to Gatwick Airport transfers | Buckley to London Gatwick | Holywell | Bagillt | Mold | Connah's Quay | Wrexham | Ruthin | Denbigh | Bangor | Holyhead</p>
                 <p>Contact us no line for a competitive quote to Gatwick Airport & Heathrow Airport from all areas of North wales & Chester inc Flintshire, Anglesey, Powys, Gwynedd, Denbighshire, Shropshire, Wirral & Wrexham</p>
-                <p>Luton Airport taxi transfers from : £225. e.g. Chester to Luton £225. Buckley : £225, Holywell : £225, Mold : £225, Wrexham to Luton Airport £225, Ruthin : £225, Denbigh : £235 ,Bangor : £315 . We operate a meet & greet service.</p>
-                <p>Contact 07902 006334 for a competitive quote to Luton Airport from all areas of North Wales & Chester inc Flintshire, Anglesey, Powys, Gwynedd, Denbighshire, Shropshire, Wirral & Wrexham, Transfers from Manchester & Liverpool Airports to Luton from £225. Quotes from any area of Flintshire, North Wales, Chester & wirral</p>
-                <p>Stanstead Airport taxi transfers from : £259. e.g., Bagillt : £259. Holywell : £259, Shotton : £259. Mold : £259, Wrexham: £259 Ruthin : £259, Denbigh : £265 ,Bangor : £319.</p>
+                <p>Luton Airport taxi transfers | Chester to Luton | Buckley | Holywell | Mold | Wrexham to Luton Airport | Ruthin | Denbigh | Bangor | We operate a meet & greet service.</p>
+                <p>Contact 07902 006334 for a competitive quote to Luton Airport from all areas of North Wales & Chester inc Flintshire, Anglesey, Powys, Gwynedd, Denbighshire, Shropshire, Wirral & Wrexham, Transfers from Manchester & Liverpool Airports to Luton | Quotes from any area of Flintshire, North Wales, Chester & wirral</p>
+                <p>Stanstead Airport taxi transfers | Bagillt | Holywell | Shotton | Mold | Wrexham | Ruthin | Denbigh | Bangor</p>
                 <p>Phone on 07902 006334 for a competitive quote to Stanstead Airport from all areas of North wales inc Flintshire,Anglesey, Powys, Gwynedd, Denbighshire, Shropshire, Wirral & Wrexham</p>
-                <p>Cardiff Airport taxi transfers from : £215. Leeds/Bradford Airport taxi transfers from : £135</p>
+                <p>Cardiff Airport taxi transfers | Leeds/Bradford Airport taxi transfers</p>
             </div>
         </div>
     </div>

@@ -4,7 +4,7 @@
 
 @section('content')
     <div id="post-head" class="container-fluid">
-        <div class="row parallax-window" data-parallax="scroll" data-image-src="images/privacy.png">
+        <div class="row parallax-window" data-parallax="scroll" data-image-src="images/privacy.jpeg">
         </div>
     </div>
     <div class="container">
@@ -12,13 +12,10 @@
             <div class="col-12">
                 <h1>Privacy Policy</h1>
 
-                <p>ROBERTO'S WORLD LTD ("us", "we", or "our") operates the robertostaxi.com website (the "Service").</p>
-
-                <p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy  for ROBERTO'S WORLD LTD is managed through <a href="https://www.freeprivacypolicy.com/free-privacy-policy-generator.php">Free Privacy Policy</a>.</p>
-
-                <p>We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from robertostaxi.com</p>
-
-
+                <p>PlanB Transport Services ("us", "we", or "our") operates the planB.co.uk website (the "Service").</p>
+                
+                <p>We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from planb.co.uk</p>
+                
                 <h2>Information Collection And Use</h2>
 
                 <p>We collect several different types of information for various purposes to provide and improve our Service to you.</p>
@@ -50,7 +47,7 @@
 
                 <h2>Use of Data</h2>
 
-                <p>ROBERTO'S WORLD LTD uses the collected data for various purposes:</p>
+                <p>PlanB Transport Services uses the collected data for various purposes:</p>
                 <ul>
                     <li>To provide and maintain the Service</li>
                     <li>To notify you about changes to our Service</li>
@@ -65,15 +62,15 @@
                 <p>Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.</p>
                 <p>If you are located outside United Kingdom and choose to provide information to us, please note that we transfer the data, including Personal Data, to United Kingdom and process it there.</p>
                 <p>Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.</p>
-                <p>ROBERTO'S WORLD LTD will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</p>
+                <p>PlanB Transport Services will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</p>
 
                 <h2>Disclosure Of Data</h2>
 
                 <h3>Legal Requirements</h3>
-                <p>ROBERTO'S WORLD LTD may disclose your Personal Data in the good faith belief that such action is necessary to:</p>
+                <p>PlanB Transport Services may disclose your Personal Data in the good faith belief that such action is necessary to:</p>
                 <ul>
                     <li>To comply with a legal obligation</li>
-                    <li>To protect and defend the rights or property of ROBERTO'S WORLD LTD</li>
+                    <li>To protect and defend the rights or property of PlanB Transport Services</li>
                     <li>To prevent or investigate possible wrongdoing in connection with the Service</li>
                     <li>To protect the personal safety of users of the Service or the public</li>
                     <li>To protect against legal liability</li>
@@ -110,7 +107,7 @@
                 <h2>Contact Us</h2>
                 <p>If you have any questions about this Privacy Policy, please contact us:</p>
                 <ul>
-                    <li>By email: roberto29yoo@yahoo.co.uk</li>
+                    <li>By email: booking@planb.co.uk</li>
 
                 </ul>
             </div>
