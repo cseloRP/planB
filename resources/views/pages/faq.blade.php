@@ -4,14 +4,14 @@
 
 @section('content')
     <div id="post-head" class="container-fluid">
-        <div class="row parallax-window" data-parallax="scroll" data-image-src="images/slider3.png">
+        <div class="row parallax-window" data-parallax="scroll" data-image-src="images/faq.jpg">
         </div>
     </div>
     <div class="container">
         <div class="row">
             <div class="col-12">
                 <h1 class="letterspacing-wide">Questions and answers about our services</h1>
-
+                <hr class="deep-padding" />
                 <div class="accordion">
                     <h4>What methods of payment are accepted?</h4>
                     <div>

@@ -17,7 +17,7 @@
                     </ol>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img class="w-100" alt="Transport service Wales"
+                            <img class="d-block w-100" alt="Transport service Wales"
                                  src="images/slider/sliderB2.png">
                             <div class="carousel-caption">
                                 <h3 class="light-text">
@@ -39,7 +39,7 @@
                                  src="images/slider/sliderB6.png">
                             <div class="carousel-caption">
                                 <h3 class="light-text">
-                                    From £1 per mile on long distances
+                                    From £1 per mile on long distances and we accept all major credit and debit cards on board.
                                 </h3>
                             </div>
                         </div>
@@ -107,7 +107,7 @@
                     Meet and Greet Services
                 </h2>
                 <p>
-                    We also offer a meet and greet service, so that you can be confident that there will be a driver and a car waiting for you upon arrival at the airport. Some additional charges may apply, but this provides a guarantee that you will enjoy a prompt pick up.
+                    We also offer a meet and greet service, so that you can be confident that there will be a driver and a car waiting for you upon arrival at the airport. Some additional charges may apply, but this provides a guarantee that you will enjoy a prompt pick up. We accept all major credit and debit cards on board.
                 </p>
             </div>
         </div>
@@ -116,21 +116,21 @@
         <div class="container-fluid wide-strip parallax-window" data-parallax="scroll"
              data-image-src="images/wide_back.jpg">
             <div class="row justify-content-center">
-                <div class="col-md-9">
+                <div class="col-lg-9 col-md-12">
                     <h3 class="text-block-center light-text text-center">Book Online Today And Travel In Comfort On Your Next
                         Trip</h3>
                 </div>
             </div>
-            <div class="row justify-content-center">
+            <div class="row justify-content-center hidden-sm-down">
                 <div class="col-md-9">
-                    <div class="text-block-center light-text midtext high-padding">
+                    <div class="text-block-center light-text midtext high-padding text-center">
                         <p>Call Us On 0790 2006334 or Email booking@planb-north.wales</p>
                     </div>
                 </div>
             </div>
             <div class="row justify-content-center">
                 <div class="col-md-9">
-                    <a href="/about" class="text-block-center">
+                    <a href="/contact" class="text-block-center">
                         <button type="button" class="btn btn-outline-mono high-margin">
                             Online booking
                         </button>

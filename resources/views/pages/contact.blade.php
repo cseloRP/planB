@@ -11,7 +11,7 @@
     <div class="row">
         <div class="col-md-12">
             <h1>Contact Us</h1>
-            <hr>
+            <hr class="deep-padding" />
             <form action="{{ url('contact') }}" method="POST">
                 {{ csrf_field() }}
                 <div class="form-group">
@@ -27,7 +27,7 @@
                     <textarea id="message" name="message" class="form-control"></textarea>
                 </div>
                 <div class="form-group">
-                    <div class="g-recaptcha" data-sitekey="6LeNoCAUAAAAAHrnPaS-n2VseYc3JA1eDkeW_kD-"></div>
+                    <div class="g-recaptcha" data-sitekey="env(RE_CAPTCHA_SECRET)"></div>
                 </div>
                 <input type="submit" value="Send" class="btn btn-primary">
             </form>
