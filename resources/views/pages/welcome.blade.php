@@ -21,7 +21,9 @@
                                  src="images/slider/sliderB2.png">
                             <div class="carousel-caption">
                                 <h3 class="light-text">
-                                    Cheap and reliable service for airport transfers and long distances.
+                                    <a href="/contact" class="rounded-btn h-text-color">Book Online</a>
+                                    <br /><br />
+                                    or CALL US to book your transfer
                                 </h3>
                             </div>
                         </div>
@@ -30,7 +32,7 @@
                                  src="images/slider/sliderB4.png">
                             <div class="carousel-caption">
                                 <h3 class="light-text">
-                                    Your satisfaction is our future.
+                                    Cheap and reliable service for airport transfers and long distances.
                                 </h3>
                             </div>
                         </div>
@@ -71,7 +73,6 @@
                 </div>
             </div>
         </div>
-    </div>
     </div>
     <div id="services" class="dark-background">
         <div class="row justify-content-center">

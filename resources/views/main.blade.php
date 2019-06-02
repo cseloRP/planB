@@ -8,11 +8,13 @@
 
     <body id="home">
 
-        @include('partials._nav')
-
         @include('partials._messages')
 
+        @include('partials._nav')
+
         @yield('content')
+
+        @include('partials._callBlock')
 
         @include('partials._footer')
 

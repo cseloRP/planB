@@ -496,6 +496,21 @@ footer .secPart {
     font-size: 2rem;
 }
 
+.call-block {
+    display: none;
+}
+
+.rounded-btn {
+    border: solid;
+    border-radius: 25px;
+    color: #cc4452 !important;
+    padding-top: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 30px;
+    background-color:rgba(255,255,255,0.6);
+}
+
 @media (max-width: 991px) {
     .carousel {
         padding-top: 45px;
@@ -591,6 +606,22 @@ footer .secPart {
         top: 50px !important;
         bottom: auto;
     }
+
+    .call-block {
+        display: block;
+        position: fixed;
+        width: 50px;
+        height: 50px;
+        bottom: 10px;
+        right: 10px;
+        z-index: 999;
+    }
+
+    .call-image {
+        width: 100%;
+    }
+
+
 }
 
 @media (max-width: 767px) {

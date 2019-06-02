@@ -19,7 +19,7 @@
 					07902 006334 Monday - Sunday, 24/7/365
 				</p>
 				<p>
-					booking@planb-north.wales - Book Online Today
+					contact@planb-transfer.co.uk - Book Online Today
 				</p>
                 <div class='socialBox'>
                     <a target="_blank" href="https://www.facebook.com"><div class='icon social fb'><i class='fa fa-facebook'></i></div></a>

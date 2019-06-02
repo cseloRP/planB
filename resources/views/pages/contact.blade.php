@@ -29,7 +29,7 @@
                 <div class="form-group">
                     <div class="g-recaptcha" data-sitekey="env(RE_CAPTCHA_SECRET)"></div>
                 </div>
-                <input type="submit" value="Send" class="btn btn-primary">
+                <input type="submit" value="Send" class="btn btn-primary deep-margin">
             </form>
         </div>
     </div>

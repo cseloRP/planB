@@ -1,4 +1,4 @@
-<h3>Új kontakt üzeneted érkezett</h3>
+<h3>You've got a new contact message @PlanB-Transfer.co.uk</h3>
 
 <div>
     {{ $bodyMessage }}

@@ -42,18 +42,18 @@ class pagesController extends Controller{
 
     public function postContact(Request $request)
     {
-        $request['captcha'] = $this->validateCaptchaResponse();
+//        $request['captcha'] = $this->validateCaptchaResponse();
 
-        $this->validate($request, [
-            'email' => 'required|email',
-            'subject' => 'min:3',
-            'message' => 'min:10',
-            'g-recaptcha-response'=>'required',
-            'captcha'=>'min:1',
-        ],
-            [
-                'captcha.min' => 'Unsuccessful send!',
-            ]);
+//        $this->validate($request, [
+//            'email' => 'required|email',
+//            'subject' => 'min:3',
+//            'message' => 'min:10',
+//            'g-recaptcha-response'=>'required',
+//            'captcha'=>'min:1',
+//        ],
+//            [
+//                'captcha.min' => 'Unsuccessful send!',
+//            ]);
 
         $data = array(
             'email' => $request->email,
@@ -63,11 +63,11 @@ class pagesController extends Controller{
 
         Mail::send('emails.contact', $data, function($message) use ($data){
             $message->from($data['email']);
-            $message->to('rp+1@mailbox.hu');
+            $message->to('cselo.rp@gmail.com');
             $message->subject($data['subject']);
         });
 
-        Session::flash('success', 'Sikeresen elküldted a kontakt üzenetet!');
+        Session::flash('success', 'Message sent successfully');
 
         return redirect('/');
     }
